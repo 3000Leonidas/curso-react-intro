@@ -2,10 +2,14 @@
   "name": "platzi-intro-react-base",
   "version": "0.1.0",
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "nth-check": "^2.1.1",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-devtools": "^4.28.5",
+    "react-dom": "^18.2.0",
+    "react-script": "^2.0.5",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
